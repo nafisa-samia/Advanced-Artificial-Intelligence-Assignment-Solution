@@ -1,4 +1,4 @@
-# Advanced-Artificial-Intelligence-Assignment
+# Advanced-AI-Applications-Assignment
 
 ## Exercises
 
